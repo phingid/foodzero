@@ -1,0 +1,28 @@
+header {
+    background-color: var(--color-primary);
+    color: var(--color-white);
+    padding-block: 46px 46px;
+}
+
+.header__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__wrapper {
+    display: flex;
+    align-items: center;
+    gap: 45px;
+}
+
+.header__contacts {
+    display: flex;
+    align-items: center;
+    gap: 26px;
+}
+
+.header__phone {
+    font-weight: 400;
+    font-size: 26px;
+}

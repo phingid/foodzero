@@ -4,4 +4,8 @@
     --font-family-secondary: 'Rufina', sans-serif;
 
     /* colors */
+    --color-primary: #233000;
+
+    --color-white: #FFFFFF;
+    --color-black: #000000;
 }

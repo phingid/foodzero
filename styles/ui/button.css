@@ -1,0 +1,14 @@
+.button {
+    font-family: var(--font-family-secondary);
+    font-weight: 700;
+    font-size: 32px;
+    color: var(--color-black);
+
+    border: 2px solid var(--color-black);
+    padding: 20px 46px;
+}
+
+.button_header {
+    color: var(--color-white);
+    border-color: var(--color-white);
+}
